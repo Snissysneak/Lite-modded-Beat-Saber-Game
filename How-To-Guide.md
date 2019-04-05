@@ -1,4 +1,4 @@
-#How To Guide
+# How To Guide
 
 First download the "beat saber" folder from this repository and extract it into:
 steamapps/common
