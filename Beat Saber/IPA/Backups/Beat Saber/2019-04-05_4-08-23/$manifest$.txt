@@ -1,0 +1,18 @@
+Beat Saber_Data\Managed\I18N.dll
+Beat Saber_Data\Managed\I18N.West.dll
+Beat Saber_Data\Managed\IPA.Injector.dll
+Beat Saber_Data\Managed\IPA.Loader.dll
+Beat Saber_Data\Managed\IPA.Loader.xml
+Beat Saber_Data\Managed\System.Runtime.Serialization.dll
+Libs\0Harmony.1.2.0.1.dll
+Libs\Ionic.Zip.1.9.1.8.dll
+Libs\Mono.Cecil.0.10.3.0.dll
+Libs\Mono.Cecil.Mdb.0.10.3.0.dll
+Libs\Mono.Cecil.Pdb.0.10.3.0.dll
+Libs\Mono.Cecil.Rocks.0.10.3.0.dll
+Libs\Newtonsoft.Json.12.0.0.0.dll
+Libs\SemVer.1.2.0.0.dll
+Launcher.exe
+winhttp.dll
+Beat Saber_Data\Managed\UnityEngine.CoreModule.dll
+Beat Saber_Data\Managed\Assembly-CSharp.dll
