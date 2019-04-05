@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SongBrowserSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sortMode>Random</sortMode>
+  <filterMode>None</filterMode>
+  <searchTerms />
+  <currentLevelId>643A9A405A38FF15C196DDCD0E4D953A∎Friction∎Imagine Dragons∎Trockenmatt∎104∎</currentLevelId>
+  <currentPlaylistFile>E:\SteamLibrary\steamapps\common\Beat Saber\Playlists\SongBrowserPluginFavorites.json</currentPlaylistFile>
+  <currentEditingPlaylistFile>E:\SteamLibrary\steamapps\common\Beat Saber\Playlists\SongBrowserPluginFavorites.json</currentEditingPlaylistFile>
+  <folderSupportEnabled>false</folderSupportEnabled>
+  <randomInstantQueue>false</randomInstantQueue>
+  <deleteNumberedSongFolder>true</deleteNumberedSongFolder>
+  <randomSongSeed>930418036</randomSongSeed>
+  <invertSortResults>false</invertSortResults>
+  <favorites />
+</SongBrowserSettings>

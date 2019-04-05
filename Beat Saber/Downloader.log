@@ -1,0 +1,209 @@
+[BeatSaverDownloader | LOG] Creating sprites...
+[BeatSaverDownloader | LOG] Creating sprites... Done!
+[BeatSaverDownloader | LOG] Found 1 playlists in BeatDrop folder
+[BeatSaverDownloader | LOG] Found 1 playlists in Playlists folder
+[BeatSaverDownloader | LOG] Found "Good songs" by Anonymous
+[BeatSaverDownloader | LOG] Found "Song Browser Favorites" by SongBrowserPlugin
+[BeatSaverDownloader | LOG] Active scene changed from "" to "PCInit"
+[BeatSaverDownloader | LOG] Loaded scene "PCInit"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "PCInit" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "Init"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "Init"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "Init" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "HealthWarning"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "HealthWarning"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "HealthWarning" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "MainMenu"
+[BeatSaverDownloader | LOG] Loaded scene "MenuViewControllers"
+[BeatSaverDownloader | LOG] Loaded scene "MenuEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "MenuCore"
+[BeatSaverDownloader | LOG] Downloading scrapped data...
+[BeatSaverDownloader | LOG] Setting up song list tweaks...
+[BeatSaverDownloader | LOG] Received response from github.com...
+[BeatSaverDownloader | LOG] Scrapped data downloaded!
+[BeatSaverDownloader | LOG] Matching songs for all playlists!
+[BeatSaverDownloader | LOG] Started matching songs for playlist "Good songs"...
+[BeatSaverDownloader | LOG] Creating default playlists...
+[BeatSaverDownloader | LOG] Created "All songs" playlist with 554 songs!
+[BeatSaverDownloader | LOG] Created "Your favorite songs" playlist with 0 songs!
+[BeatSaverDownloader | LOG] Matched all songs for playlist "Good songs"! Time: 0.03s
+[BeatSaverDownloader | LOG] Started matching songs for playlist "Good songs"...
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Matched all songs for playlist "Good songs"! Time: 0.00s
+[BeatSaverDownloader | LOG] Started matching songs for playlist "Song Browser Favorites"...
+[BeatSaverDownloader | LOG] Matched all songs for playlist "Song Browser Favorites"! Time: 0.00s
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Loaded scene "Init"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "Init"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "Init" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "MainMenu"
+[BeatSaverDownloader | LOG] Loaded scene "MenuViewControllers"
+[BeatSaverDownloader | LOG] Loaded scene "MenuEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "MenuCore"
+[BeatSaverDownloader | LOG] Downloading scrapped data...
+[BeatSaverDownloader | LOG] Setting up song list tweaks...
+[BeatSaverDownloader | LOG] Creating default playlists...
+[BeatSaverDownloader | LOG] Created "All songs" playlist with 554 songs!
+[BeatSaverDownloader | LOG] Created "Your favorite songs" playlist with 0 songs!
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Received response from github.com...
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Scrapped data downloaded!
+[BeatSaverDownloader | LOG] Loaded scene "DefaultEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "DefaultEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "DefaultEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "Init"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "Init"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "Init" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "MainMenu"
+[BeatSaverDownloader | LOG] Loaded scene "MenuViewControllers"
+[BeatSaverDownloader | LOG] Loaded scene "MenuEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "MenuCore"
+[BeatSaverDownloader | LOG] Downloading scrapped data...
+[BeatSaverDownloader | LOG] Setting up song list tweaks...
+[BeatSaverDownloader | LOG] Creating default playlists...
+[BeatSaverDownloader | LOG] Created "All songs" playlist with 554 songs!
+[BeatSaverDownloader | LOG] Created "Your favorite songs" playlist with 0 songs!
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Received response from github.com...
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Scrapped data downloaded!
+[BeatSaverDownloader | LOG] Loaded scene "Init"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "Init"
+[BeatSaverDownloader | LOG] Loaded scene "EmptyTransition"
+[BeatSaverDownloader | LOG] Active scene changed from "Init" to "EmptyTransition"
+[BeatSaverDownloader | LOG] Loaded scene "MainMenu"
+[BeatSaverDownloader | LOG] Loaded scene "MenuViewControllers"
+[BeatSaverDownloader | LOG] Loaded scene "MenuEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "EmptyTransition" to "MenuCore"
+[BeatSaverDownloader | LOG] Downloading scrapped data...
+[BeatSaverDownloader | LOG] Setting up song list tweaks...
+[BeatSaverDownloader | LOG] Creating default playlists...
+[BeatSaverDownloader | LOG] Created "All songs" playlist with 554 songs!
+[BeatSaverDownloader | LOG] Created "Your favorite songs" playlist with 0 songs!
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Received response from github.com...
+[BeatSaverDownloader | LOG] Saving playlist "Your favorite songs"...
+[BeatSaverDownloader | LOG] Playlist saved!
+[BeatSaverDownloader | LOG] Scrapped data downloaded!
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "NiceEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "BigMirrorEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
+[BeatSaverDownloader | LOG] Loaded scene "NiceEnvironment"
+[BeatSaverDownloader | LOG] Loaded scene "StandardGameplay"
+[BeatSaverDownloader | LOG] Loaded scene "GameplayCore"
+[BeatSaverDownloader | LOG] Loaded scene "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "GameCore"
+[BeatSaverDownloader | LOG] Active scene changed from "GameCore" to "MenuCore"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuCore" to "MainMenu"
+[BeatSaverDownloader | LOG] Active scene changed from "MainMenu" to "MenuViewControllers"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuViewControllers" to "MenuEnvironment"
+[BeatSaverDownloader | LOG] Active scene changed from "MenuEnvironment" to "MenuCore"
